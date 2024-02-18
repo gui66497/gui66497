@@ -4,15 +4,14 @@
     <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&random=false&width=435&lines=console.log(%22Hello%2C+World%22);wish+you+have+a+nice+day+!" alt="Typing SVG" /></a>
   </div>
 
-### 🛠 My Websites
+### My Websites
 [![Blog](https://img.shields.io/badge/-Blog-21759B?style=flat&logo=WordPress&logoColor=white&link=https://guitang.fun)](https://guitang.fun)
 [![GPT 3.5](https://img.shields.io/badge/-GPT3.5-21759B?logo=openai)](https://gpt.guitang.fun)
 [![GPT 4](https://img.shields.io/badge/-GPT4-21759B?logo=openai)](https://cws.guitang.fun)
 [![Small Shop](https://img.shields.io/badge/-Shop-21759B?logo=shopee&logoColor=white)](https://buy.guitang.fun/)
 ---
-  apachemaven
-  javascript
-### 🛠 Tech Stack
+
+### Tech Stack
   <!-- 技术栈 Tech Stack-->
   - Java &#160; ![Spring Boot](https://img.shields.io/badge/-SpringBoot-333333?style=flat&logo=springboot)
 ![SprinMVC](https://img.shields.io/badge/-SprinMVC-333333?style=flat&logo=spring)
@@ -43,6 +42,6 @@
 ![Python](https://img.shields.io/badge/-Python-333333?style=flat&logo=python)
 ![Markdown](https://img.shields.io/badge/-Markdown-333333?style=flat&logo=markdown)
 
-### 🛠  Github Overview
+### Github Overview
 <img align="left" alt="TamimEhsan's Github Stats" src="https://github-readme-stats.vercel.app/api?username=gui66497&show_icons=true" />    &nbsp;
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gui66497&layout=compact)](https://github.com/anuraghazra/github-readme-stats) 
