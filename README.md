@@ -1,7 +1,7 @@
-## Hi there 👋
+## Hi there, I'm Guitang.Fang <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="30px">
   <div>
     <a href="https://guitang.fun">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&random=false&width=435&lines=console.log(%22Hello%2C+World%22);wish+you+have+a+nice+day+!" alt="Typing SVG" /></a>
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=2980B9&random=false&width=435&lines=console.log(%22Hello%2C+World%22);wish+you+have+a+nice+day+!" alt="Typing SVG" /></a>
   </div>
 
 ### My Websites
@@ -16,12 +16,11 @@
   - Java &#160; ![Spring Boot](https://img.shields.io/badge/-SpringBoot-333333?style=flat&logo=springboot)
 ![SprinMVC](https://img.shields.io/badge/-SprinMVC-333333?style=flat&logo=spring)
 ![Maven](https://img.shields.io/badge/-Maven-333333?style=flat&logo=apachemaven)
-- Web &#160; ![Vue](https://img.shields.io/badge/-VUE-333333?style=flat&logo=vuedotjs)
+- Web &#160; ![javascript](https://img.shields.io/badge/-javascript-333333?style=flat&logo=javascript)
 ![Bootstrap](https://img.shields.io/badge/-Bootstrap-333333?style=flat&logo=bootstrap)
-![angular](https://img.shields.io/badge/-AngularJS-333333?style=flat&logo=angular)
 ![Jquery](https://img.shields.io/badge/-Jquery-333333?style=flat&logo=jquery)
-![javascript](https://img.shields.io/badge/-javascript-333333?style=flat&logo=javascript)
-![Vue.js](https://img.shields.io/badge/-VueJS-333333?style=flat&logo=Vue.js)
+![Vue](https://img.shields.io/badge/-VUE-333333?style=flat&logo=vuedotjs)
+![angular](https://img.shields.io/badge/-AngularJS-333333?style=flat&logo=angular)
 - DB &#160; ![MySQL](https://img.shields.io/badge/-MySQL-333333?style=flat&logo=mysql&logoColor=white)
 ![ElasticSearch](https://img.shields.io/badge/-elasticsearch-333333?style=flat&logo=elasticsearch)
 ![Oracle](https://img.shields.io/badge/-Oracle-333333?style=flat&logo=Oracle)
@@ -43,5 +42,5 @@
 ![Markdown](https://img.shields.io/badge/-Markdown-333333?style=flat&logo=markdown)
 
 ### Github Overview
-<img align="left" alt="TamimEhsan's Github Stats" src="https://github-readme-stats.vercel.app/api?username=gui66497&show_icons=true" />    &nbsp;
+<img align="left" alt="Github Stats" src="https://github-readme-stats.vercel.app/api?username=gui66497&show_icons=true" />    &nbsp;
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gui66497&layout=compact)](https://github.com/anuraghazra/github-readme-stats) 
