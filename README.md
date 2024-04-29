@@ -9,6 +9,8 @@
 [![GPT 3.5](https://img.shields.io/badge/-GPT3.5-333333?logo=openai)](https://gpt.guitang.fun)
 [![GPT 4](https://img.shields.io/badge/-GPT4-333333?logo=openai)](https://cws.guitang.fun)
 [![Small Shop](https://img.shields.io/badge/-Shop-333333?logo=shopee&logoColor=white)](https://buy.guitang.fun/)
+[![Steam](https://img.shields.io/badge/-Steam-333333?logo=steam&logoColor=white)](https://steamcommunity.com/id/fungetter)
+[![PSN](https://img.shields.io/badge/-PSN-333333?logo=playstation&logoColor=white)](https://psnprofiles.com/Fungetter)
 ---
 
 ### Tech Stack
